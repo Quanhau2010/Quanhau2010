@@ -11,7 +11,7 @@
 ## 🛠 Tech Stack
 
 ### 🚀 Languages & Frameworks
-![Languages](https://skillicons.dev/icons?i=python,php,js,lua,C++,C#,C,Html,Pascal&perline=8&theme=dark)
+![Languages](https://skillicons.dev/icons?i=python,php,js,lua,C++,C#,C,Html,&perline=8&theme=dark)
 
 ### 🔧 Tools & Platforms
 ![Tools](https://skillicons.dev/icons?i=github,vscode,git,mysql,termux&perline=6&theme=dark)
@@ -46,7 +46,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Quanhau2010)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Quanhau2010)
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQuanhau2010&count_bg=%23000000&title_bg=%23000000&icon=spacex.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)
 
 ---
 
