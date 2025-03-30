@@ -34,10 +34,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quanhau2010&theme=radical">
 </p>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Quanhau2010&theme=radical">
-</p>
-
 ---
 
 ## 🌐 Connect with me
