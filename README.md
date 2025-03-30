@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://i.imgur.com/I5T0Zin.jpeg" alt="thanhdieu-banner" style="border-radius: 15px; animation: glow 2s infinite alternate;">
+<img src="https://i.imgur.com/OiBucl2.png" alt="thanhdieu-banner" style="border-radius: 15px; animation: glow 2s infinite alternate;">
 
-# ⚡ 𝕋𝕙𝕒𝕟𝕙𝔻𝕚𝕖𝕦 ⚡
+# ⚡ 𝑻𝒓𝒂𝒏𝑸𝒖𝒂𝒏𝑯𝒂𝒖 ⚡
 
 > *Though I may be one among many, I am still the one and only!* 🚀
 
@@ -11,45 +11,40 @@
 ## 🛠 Tech Stack
 
 ### 🚀 Languages & Frameworks
-![Languages](https://skillicons.dev/icons?i=python,php,js,ts,java,cpp,rust,go,dart,swift,kotlin,cs,ruby,perl,lua&perline=8&theme=dark)
+![Languages](https://skillicons.dev/icons?i=python,php,js,lua,C++,C#,C,Html,Pascal&perline=8&theme=dark)
 
 ### 🔧 Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=github,vscode,linux,git,docker,nginx,postgres,mysql,redis,aws,cloudflare,kubernetes,ansible,jenkins&perline=6&theme=dark)
-
-### 💎 Other Skills
-![Extra](https://skillicons.dev/icons?i=figma,blender,flutter,graphql,selenium,unity,unreal&perline=6&theme=dark)
+![Tools](https://skillicons.dev/icons?i=github,vscode,git,mysql,termux&perline=6&theme=dark)
 
 ---
 
 ## 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WusThanhDieu&show_icons=true&hide=issues,contribs&theme=radical&hide_border=true&border_radius=10&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quanhau2010&show_icons=true&hide=issues,contribs&theme=radical&hide_border=true&border_radius=10&count_private=true">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WusThanhDieu&theme=radical&hide_border=true&border_radius=10">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quanhau2010&theme=radical&hide_border=true&border_radius=10">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WusThanhDieu&layout=compact&theme=radical&hide_border=true&border_radius=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quanhau2010&layout=compact&theme=radical&hide_border=true&border_radius=10">
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WusThanhDieu&theme=radical&no-bg=true&no-frame=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=Quanhau2010Quanhau2010&theme=radical&no-bg=true&no-frame=true">
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WusThanhDieu&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quanhau2010&theme=radical">
 </p>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=WusThanhDieu&theme=radical">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Quanhau2010&theme=radical">
 </p>
 
 ---
 
 ## 🌐 Connect with me
 
-[![Website](https://img.shields.io/badge/🌎-Website-0D1117?style=for-the-badge&logo=firefox&logoColor=white)](https://thanhdieu.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WusThanhDieu)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
+[![Website](https://img.shields.io/badge/🌎-Website-0D1117?style=for-the-badge&logo=firefox&logoColor=white)](https://keyherlyswar.x10.mx/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Quanhau2010)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Quanhau2010)
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWusThanhDieu&count_bg=%23000000&title_bg=%23000000&icon=spacex.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)
 
