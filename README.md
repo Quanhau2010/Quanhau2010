@@ -46,22 +46,23 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Quanhau2010)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Quanhau2010)
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWusThanhDieu&count_bg=%23000000&title_bg=%23000000&icon=spacex.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQuanhau2010&count_bg=%23000000&title_bg=%23000000&icon=spacex.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)
 
 ---
 
-## 🎵 Vibe While You Code 🎧
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=true">
-</p>
-
----
 
 ## 🏆 Fun Badges
 <p align="center">
   <img src="https://forthebadge.com/images/badges/made-with-python.svg">
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg">
+  <img src="https://forthebadge.com/images/badges/uses-brains.svg">
+  <img src="https://forthebadge.com/images/badges/uses-bash.svg">
+  <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg">
+  <img src="https://forthebadge.com/images/badges/fixed-bugs.svg">
+  <img src="https://forthebadge.com/images/badges/gluten-free.svg">
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg">
+  <img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg">
 </p>
 
 ---
